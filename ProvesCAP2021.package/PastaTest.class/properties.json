@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "TestCase",
+	"category" : "ProvesCAP2021",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"eur5",
+		"eur10",
+		"eur20"
+	],
+	"name" : "PastaTest",
+	"type" : "normal"
+}

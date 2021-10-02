@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "ProvesCAP2021",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"moneda",
+		"quantitat"
+	],
+	"name" : "Pasta",
+	"type" : "normal"
+}
